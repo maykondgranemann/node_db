@@ -52,5 +52,5 @@ async function criar_veiculo(){
 }
 
 console.log('NodeDB');
-//listar_veiculos();
-criar_veiculo();
+listar_veiculos();
+//criar_veiculo();
